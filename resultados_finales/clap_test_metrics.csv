@@ -1,0 +1,2 @@
+modelo,split,n_samples,roc_auc_macro,roc_auc_micro,pr_auc_macro,pr_auc_micro,lrap,spearman_rho,f1_macro,f1_samples,hamming_loss,threshold_method,audio_segundos,score_func
+CLAP Zero-Shot,test,4231,0.6303160043209064,0.6374744525503795,0.06168048591168212,0.053695450516931156,0.16197572215687764,-0.03281802508780296,0.0818011092885614,0.0800816406850507,0.46368811315992936,validation-set per-class F1 optimization (same as fine-tuned),10,sigmoid

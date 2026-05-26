@@ -1,0 +1,3 @@
+modelo,variante,roc_auc_macro,pr_auc_macro
+panns,canonico (log-mel),0.7471068986272545,0.1293457563600165
+panns,sin_comp (mel lineal),0.7016346103143236,0.08856819124003563
